@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.d2d4a284.js",
+    "static/media/site-5.png": "/portfolio/static/media/site-5.15798f59764c1c266a38.png",
+    "static/media/site-4.png": "/portfolio/static/media/site-4.a487a30037b0f868cd39.png",
+    "static/media/site-6.png": "/portfolio/static/media/site-6.ec30efea7c41c3e182a3.png",
+    "static/media/site-3.png": "/portfolio/static/media/site-3.e2bc12ff3824138db85a.png",
+    "static/media/astronaut.png": "/portfolio/static/media/astronaut.d8c6a3823fde27af170f.png",
+    "static/media/site-1.png": "/portfolio/static/media/site-1.f80153d40f6f68332070.png",
+    "static/media/site-2.png": "/portfolio/static/media/site-2.2cca9bb60b54336b813a.png",
+    "static/media/react.svg": "/portfolio/static/media/react.b7b502647b428983b62517ac6bc67127.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/js.svg": "/portfolio/static/media/js.e6e2c790ec1f2fd0b349b5c78dd501a7.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.8efde094aa240db2fe48c8b98cfde50b.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.c928ea6e6a8c789671e5a69702d7d2b0.svg",
+    "static/media/phone.svg": "/portfolio/static/media/phone.3992f08437eb59b4ff39c22835d749d3.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.8dbe627bf14413285cbbdf9aa3117204.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.6b1a405fa86fd7c645a8d1967482164a.svg",
+    "static/media/mail.svg": "/portfolio/static/media/mail.fdde3d7a595c3fe05a4b56335d1c3497.svg",
+    "static/media/smartphone.svg": "/portfolio/static/media/smartphone.36af228d956057be23cc65f61fae1dca.svg",
+    "static/media/code.svg": "/portfolio/static/media/code.fac09bee6c93eaa1dbf1ca61bfe45fac.svg",
+    "main.d2d4a284.js.map": "/portfolio/static/js/main.d2d4a284.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d2d4a284.js"
+  ]
+}
