@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 288" width="80" height="80">
+	<title>html (1)-svg</title>
+	<style>
+		.s0 { fill: #a277ff } 
+	</style>
+	<g id="SvgjsG1013">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m271 0l-23.2 259.2l-104 28.8l-103.7-28.8l-23.1-259.2zm-50.3 84.8l2.9-31.8h-159.3l8.6 96.1h110.2l-3.7 41.2l-35.4 9.6h-0.1l-35.4-9.5l-2.3-25.4h-31.9l4.5 49.9l65.1 18.1l65.2-18.1l8.7-97.6h-115.8l-2.9-32.5z" />
+		</g>
+	</g>
+</svg>
